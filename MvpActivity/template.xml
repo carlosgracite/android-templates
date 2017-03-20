@@ -4,7 +4,7 @@
 		name="Mvp Activity"
 		description="Activity template for MVP feature">
  
-	<category value="Other"/>
+	<category value="MVP"/>
 
 	<parameter
         id="featureName"
